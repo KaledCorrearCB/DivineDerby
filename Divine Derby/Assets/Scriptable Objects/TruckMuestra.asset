@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0642957f0f2788d41beb59801347ba7f, type: 3}
+  m_Name: TruckMuestra
+  m_EditorClassIdentifier: 
+  carImage: {fileID: 21300000, guid: ed5ce43837d02764aab34e02a2def513, type: 3}
+  carName: Track V
+  speed: 1400
+  brakeForce: 1700
+  angle: 20
+  carPrefab: {fileID: 1328945910833846769, guid: 610bd28646895ea44a536ce96cdc1d4e,
+    type: 3}

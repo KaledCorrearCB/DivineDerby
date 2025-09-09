@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0642957f0f2788d41beb59801347ba7f, type: 3}
+  m_Name: Car3
+  m_EditorClassIdentifier: 
+  carImage: {fileID: 21300000, guid: 47e7ebec34c038941accaba368059391, type: 3}
+  carName: Track G
+  speed: 800
+  brakeForce: 1000
+  angle: 15
+  carPrefab: {fileID: 1328945910833846769, guid: d2f42c7e21d81d94b8f0940f98169b3e,
+    type: 3}
